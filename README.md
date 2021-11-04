@@ -2,7 +2,7 @@
  
 <b>Desenvolvimento do game</b>
 
-O projeto trata de uma game educativo baseado na evolução dos seres vivos, que foi executado na graduação em Computação na UPE na disciplina de Estágio Supervionado IV, como uma forma de contribuir com ensino aprendizagem dos alunos do ensino fundamental, e foi executado com alunos da 7ª série. 
+O projeto trata de uma game educativo baseado na evolução dos seres vivos, que foi executado na graduação em Computação na UPE na disciplina de Estágio Supervionado IV, como uma forma de contribuir com ensino aprendizagem dos alunos do ensino fundamental, e foi executado com alunos da 7ª série. Baseado em E.V.O: Search For Eden do SNES e Spore produzido para PC. 
 
 Esse game pretende suprir possíveis dificuldades que os alunos venham apresentar em relação aos assuntos: Evolução da terra e suas mais variadas formas de vida. É um game multidisciplinar que abrange as disciplinas: Geografia (trabalha com mudanças da paisagem: envolvendo clima, relevo, etc.); Biologia (a evolução das espécies: suas adaptações a nova paisagem diretamente ligada à seleção de suas características biológicas favoráveis); História (quando se faz referência espacial ou temporal de uma análise da evolução da terra e humana).
 
@@ -18,6 +18,15 @@ A história do game foi baseada em pesquisas para saber quais eram as particular
 O game é dividido em fases, cada fase será relacionada a uma Era, Geológica (clima, relevos, seres vivos existentes) onde o aprendiz vai ser uma determinada espécie, que deverá conduzi-la até a próxima Era. Para isso deverá sobreviver buscando adaptações (na alimentação, defesa de possíveis predadores, reprodução, etc), até chegar à Era Cenozóica com o surgimento do homem.
 
 O jogador será próprio ser evolutivo, e ele vão controlando os personagens à medida que as fases de evolução vão ocorrendo e os desafios vão sendo superados, a cada fase evolutiva o jogador vai controlar um ser daquela fase em particular, por exemplo, controlando uma célula e depois um o personagem principal passa a ser um peixe. Em cada fase (ou época) de evolução haverá desafios característico da época, podendo ser desde puzzle até batalhas típicas de um RPG. No decorrer do game pode haver época que sejam usados diversos personagens para ajudar o personagem principal na superação dos desafios. Os diversos personagens terão habilidades de acordo com o seu nível atual, e assim podendo adquirir experiências com os puzzles e batalhas do game.
+
+<b>Gráficos</b>
+
+
+![image](https://user-images.githubusercontent.com/10708492/140435746-55d173e0-5f3c-45f2-bd11-814d55360044.png)
+
+
+![image](https://user-images.githubusercontent.com/10708492/140435767-b873ae19-9b8a-4ed6-a158-b7139dacc1f5.png)
+
 
 
 
