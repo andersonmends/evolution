@@ -21,8 +21,8 @@ O jogador será próprio ser evolutivo, e ele vão controlando os personagens à
 
 <b>Gráficos</b>
 
+![image](https://user-images.githubusercontent.com/10708492/140435937-731ac276-f007-41aa-9347-8a72520688b6.png)
 
-![image](https://user-images.githubusercontent.com/10708492/140435746-55d173e0-5f3c-45f2-bd11-814d55360044.png)
 
 
 ![image](https://user-images.githubusercontent.com/10708492/140435767-b873ae19-9b8a-4ed6-a158-b7139dacc1f5.png)
